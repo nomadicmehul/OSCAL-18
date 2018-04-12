@@ -6,7 +6,7 @@ The Conference will take place at 19 & 20 May 2018 in Tirana. [Full story](https
 * Talk title : Introduction to Modern Identity with Auth0
 * Description : Modern identity is a lot more than just the login screen. In this talk the audience learned about the different concepts that make up modern identity.
 
-Talk Content credits : [Ado Kukic](https://twitter.com/KukicAdo)
+Talk inspired by : [Ado Kukic](https://twitter.com/KukicAdo)
 
 ### Goals : 
 
